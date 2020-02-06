@@ -1,5 +1,5 @@
 
-# Sample app in Nodejs(Koa) using Hasura(a haskel graphql framework) as orm
+# Sample app in Nodejs(Koa) using Hasura(a haskel graphql framework) as ORM
 
 This app exposes REST APIs over postgresql databbase using Hasura a graphql framework as ORM 
 https://newtask1233.herokuapp.com/v1/graphql/.

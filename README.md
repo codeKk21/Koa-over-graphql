@@ -14,8 +14,8 @@ This app uses minimal library/modules/framework for nodejs server, graqphql clie
   
 
 ## Libraries used
-		- graphql-request (lightweight GraphQL client)
-		- koa (nodejs server web framework)
-		- supertest ( library to test HTTP)
-    - jest (JavaScript Testing Framework)
+- graphql-request (lightweight GraphQL client)
+- koa (nodejs server web framework)
+- supertest ( library to test HTTP)
+- jest (JavaScript Testing Framework)
 		
